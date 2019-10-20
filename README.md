@@ -1,7 +1,9 @@
 ## Senior Research Project
 ### Tommy Manfredi
 
-You can use the [editor on GitHub](https://github.com/Manfredit2020/SeniorResearch-Box-Office/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Objective:
+The goal of out research is to create a program that can predict a films performance at the box office using dat analysis
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
